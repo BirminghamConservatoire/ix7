@@ -1,0 +1,3 @@
+[submodule "Vendor/liblo"]
+	path = Vendor/liblo
+	url = https://jamiebullock@github.com/radarsat1/liblo.git
